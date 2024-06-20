@@ -1,0 +1,50 @@
+.about-me {
+    padding: 50px 20px;
+    background-color: #0f172a;
+    color: #ffffff;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0;
+  }
+  
+  .themeText {
+    color: #00bcd4;
+  }
+  
+  .about-me-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+  
+  .about-me-image {
+    flex: 1;
+    min-width: 300px;
+    max-width: 400px;
+    margin: 20px;
+  }
+  
+  .about-me-image img {
+    width: 100%;
+    border-radius: 50%;
+  }
+  
+  .about-me-description {
+    flex: 1;
+    min-width: 300px;
+    max-width: 600px;
+    margin: 20px;
+    text-align: left;
+  }
+  
+  .about-me-description p {
+    font-size: 1.2em;
+    line-height: 1.6em;
+  }
+  

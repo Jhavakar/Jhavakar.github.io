@@ -1,0 +1,55 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh;
+  background-color: #0f172a;
+  color: white;
+  padding-left: 80px;
+}
+
+.home-container {
+  text-align: left;
+  max-width: 800px;
+}
+
+h1 {
+  margin: 0;
+}
+
+h1 .themeText {
+  color: #F76C6C; 
+}
+
+.name {
+  font-size: 3em;
+  font-weight: bold;
+  color: #ffffff;
+  text-shadow: 2px 2px #F76C6C;
+  margin-top: 20px;
+}
+
+.dynamic-text {
+  font-size: 1.5em;
+}
+
+.description {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: #ffffff;
+}
+
+.dynamic-0 {
+  color: #F76C6C; 
+  font-weight: bold;
+}
+
+.dynamic-1 {
+  color: #F76C6C; 
+  font-weight: bold;
+}
+
+.dynamic-2 {
+  color: #F76C6C; 
+  font-weight: bold;
+}
